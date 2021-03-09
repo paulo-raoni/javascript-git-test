@@ -2,6 +2,9 @@ const somaUmMaisUm = () => 1 + 1
 
 const multiplicaDoisVezesUm = () => 2 * 1
 
-console.log(somaUmMaisUm())
+const main = () => {
+    console.log(somaUmMaisUm())    
+    console.log(multiplicaDoisVezes())
+}
 
-console.log(MultiplicaDoisVezes())
+main()
