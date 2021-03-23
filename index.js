@@ -15,4 +15,6 @@ const main = () => {
 
 console.log(subtrai(NUM1, NUM2))
 
+ console.log(soma(NUM1, NUM2))    
+
 main()
