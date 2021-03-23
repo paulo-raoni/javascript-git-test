@@ -1,4 +1,4 @@
-const NUM1 = 30, NUM2 = 10
+const NUM1 = 30, NUM2 = 10;
 
 const soma = (a, b) => a + b
 const multiplica = (a, b) => a * b
