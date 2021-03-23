@@ -1,11 +1,11 @@
-const A = 30, B = 10;
+const NUM1 = 30, NUM2 = 10;
 
 const soma = (a, b) => a + b
 const multiplica = (a, b) => a * b
 
 const main = () => {    
-    console.log(soma(A, B))    
-    console.log(multiplica(A, B))
+    console.log(soma(NUM1, NUM2))    
+    console.log(multiplica(NUM1, NUM2))
 }
 
 main()
