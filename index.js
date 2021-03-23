@@ -10,6 +10,7 @@ const main = () => {
     console.log(multiplica(NUM1, NUM2))
     console.log(subtrai(NUM1, NUM2))
     console.log(divide(NUM1, NUM2))
+    console.log(divide(NUM1, NUM2))
 }
 
 main()
