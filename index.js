@@ -4,6 +4,8 @@ const soma = (a, b) => a + b
 const multiplica = (a, b) => a * b
 const subtrai = (a, b) => a - b
 const divide = (a, b) => a / b
+const algumaCoisa = (a) => a
+const algumaCoisa2 = (a) => a + a
 
 const main = () => {    
     console.log(soma(NUM1, NUM2))    
